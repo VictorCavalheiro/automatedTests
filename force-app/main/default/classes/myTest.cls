@@ -1,5 +1,5 @@
 @isTest
-public class mytest{
+public class myTest{
     @istest
     public static void legau(){
         System.assertEquals(1,1);
